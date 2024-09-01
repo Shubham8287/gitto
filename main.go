@@ -8,7 +8,7 @@ import (
 
 	d "gitto/db"
 
-	a "gitto/assitant"
+	a "gitto/assistant"
 )
 
 func main() {
